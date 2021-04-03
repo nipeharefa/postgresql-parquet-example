@@ -1,0 +1,5 @@
+# Configuration
+config.yaml
+
+# Parquet file
+*.parquet
